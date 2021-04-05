@@ -1,0 +1,120 @@
+c:\users\5105870\documents\visual studio 2012\Projects\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.exe.config
+c:\users\5105870\documents\visual studio 2012\Projects\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.exe
+c:\users\5105870\documents\visual studio 2012\Projects\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.pdb
+c:\users\5105870\documents\visual studio 2012\Projects\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.MainWindow.resources
+c:\users\5105870\documents\visual studio 2012\Projects\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.Properties.Resources.resources
+c:\users\5105870\documents\visual studio 2012\Projects\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.csproj.GenerateResource.Cache
+c:\users\5105870\documents\visual studio 2012\Projects\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.exe
+c:\users\5105870\documents\visual studio 2012\Projects\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.pdb
+c:\users\5105870\documents\visual studio 2012\Projects\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.csprojResolveAssemblyReference.cache
+C:\Users\geison\Desktop\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.exe.config
+C:\Users\geison\Desktop\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.exe
+C:\Users\geison\Desktop\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.pdb
+C:\Users\geison\Desktop\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.exe
+C:\Users\geison\Desktop\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.pdb
+C:\Users\geison\Desktop\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.csprojResolveAssemblyReference.cache
+C:\Users\geison\Desktop\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.MainWindow.resources
+C:\Users\geison\Desktop\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.Properties.Resources.resources
+C:\Users\geison\Desktop\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.csproj.GenerateResource.Cache
+C:\Users\geison\Desktop\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.exe.manifest
+C:\Users\geison\Desktop\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.application
+C:\Users\geison\Desktop\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.exe.manifest
+C:\Users\geison\Desktop\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.application
+D:\Univali\5º\Sistemas Operacionais\Trabalho_Gerenciamento_Memória\Versão 1.4\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.exe.config
+D:\Univali\5º\Sistemas Operacionais\Trabalho_Gerenciamento_Memória\Versão 1.4\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.exe
+D:\Univali\5º\Sistemas Operacionais\Trabalho_Gerenciamento_Memória\Versão 1.4\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.pdb
+D:\Univali\5º\Sistemas Operacionais\Trabalho_Gerenciamento_Memória\Versão 1.4\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.exe.manifest
+D:\Univali\5º\Sistemas Operacionais\Trabalho_Gerenciamento_Memória\Versão 1.4\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.application
+D:\Univali\5º\Sistemas Operacionais\Trabalho_Gerenciamento_Memória\Versão 1.4\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.exe
+D:\Univali\5º\Sistemas Operacionais\Trabalho_Gerenciamento_Memória\Versão 1.4\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.pdb
+D:\Univali\5º\Sistemas Operacionais\Trabalho_Gerenciamento_Memória\Versão 1.4\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.csprojResolveAssemblyReference.cache
+D:\Univali\5º\Sistemas Operacionais\Trabalho_Gerenciamento_Memória\Versão 1.4\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.MainWindow.resources
+D:\Univali\5º\Sistemas Operacionais\Trabalho_Gerenciamento_Memória\Versão 1.4\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.Properties.Resources.resources
+D:\Univali\5º\Sistemas Operacionais\Trabalho_Gerenciamento_Memória\Versão 1.4\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.csproj.GenerateResource.Cache
+D:\Univali\5º\Sistemas Operacionais\Trabalho_Gerenciamento_Memória\Versão 1.4\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.exe.manifest
+D:\Univali\5º\Sistemas Operacionais\Trabalho_Gerenciamento_Memória\Versão 1.4\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.application
+D:\Univali\5º\Sistemas Operacionais\Trabalho_Gerenciamento_Memória\Versão 1.4\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.View.WindConfig.resources
+D:\Univali\5º\Sistemas Operacionais\Trabalho_Gerenciamento_Memória\Versão 1.5\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.exe.config
+D:\Univali\5º\Sistemas Operacionais\Trabalho_Gerenciamento_Memória\Versão 1.5\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.exe
+D:\Univali\5º\Sistemas Operacionais\Trabalho_Gerenciamento_Memória\Versão 1.5\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.pdb
+D:\Univali\5º\Sistemas Operacionais\Trabalho_Gerenciamento_Memória\Versão 1.5\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.exe.manifest
+D:\Univali\5º\Sistemas Operacionais\Trabalho_Gerenciamento_Memória\Versão 1.5\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.application
+D:\Univali\5º\Sistemas Operacionais\Trabalho_Gerenciamento_Memória\Versão 1.5\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.exe
+D:\Univali\5º\Sistemas Operacionais\Trabalho_Gerenciamento_Memória\Versão 1.5\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.pdb
+D:\Univali\5º\Sistemas Operacionais\Trabalho_Gerenciamento_Memória\Versão 1.5\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.csprojResolveAssemblyReference.cache
+D:\Univali\5º\Sistemas Operacionais\Trabalho_Gerenciamento_Memória\Versão 1.5\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.MainWindow.resources
+D:\Univali\5º\Sistemas Operacionais\Trabalho_Gerenciamento_Memória\Versão 1.5\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.Properties.Resources.resources
+D:\Univali\5º\Sistemas Operacionais\Trabalho_Gerenciamento_Memória\Versão 1.5\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.View.WindConfig.resources
+D:\Univali\5º\Sistemas Operacionais\Trabalho_Gerenciamento_Memória\Versão 1.5\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.csproj.GenerateResource.Cache
+D:\Univali\5º\Sistemas Operacionais\Trabalho_Gerenciamento_Memória\Versão 1.5\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.exe.manifest
+D:\Univali\5º\Sistemas Operacionais\Trabalho_Gerenciamento_Memória\Versão 1.5\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.application
+D:\Univali\5º\Sistemas Operacionais\Trabalho_Gerenciamento_Memória\Versão 1.6\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.exe.config
+D:\Univali\5º\Sistemas Operacionais\Trabalho_Gerenciamento_Memória\Versão 1.6\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.exe
+D:\Univali\5º\Sistemas Operacionais\Trabalho_Gerenciamento_Memória\Versão 1.6\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.pdb
+D:\Univali\5º\Sistemas Operacionais\Trabalho_Gerenciamento_Memória\Versão 1.6\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.exe.manifest
+D:\Univali\5º\Sistemas Operacionais\Trabalho_Gerenciamento_Memória\Versão 1.6\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.application
+D:\Univali\5º\Sistemas Operacionais\Trabalho_Gerenciamento_Memória\Versão 1.6\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.exe
+D:\Univali\5º\Sistemas Operacionais\Trabalho_Gerenciamento_Memória\Versão 1.6\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.pdb
+D:\Univali\5º\Sistemas Operacionais\Trabalho_Gerenciamento_Memória\Versão 1.6\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.csprojResolveAssemblyReference.cache
+D:\Univali\5º\Sistemas Operacionais\Trabalho_Gerenciamento_Memória\Versão 1.6\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.MainWindow.resources
+D:\Univali\5º\Sistemas Operacionais\Trabalho_Gerenciamento_Memória\Versão 1.6\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.Properties.Resources.resources
+D:\Univali\5º\Sistemas Operacionais\Trabalho_Gerenciamento_Memória\Versão 1.6\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.View.WindConfig.resources
+D:\Univali\5º\Sistemas Operacionais\Trabalho_Gerenciamento_Memória\Versão 1.6\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.csproj.GenerateResource.Cache
+D:\Univali\5º\Sistemas Operacionais\Trabalho_Gerenciamento_Memória\Versão 1.6\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.exe.manifest
+D:\Univali\5º\Sistemas Operacionais\Trabalho_Gerenciamento_Memória\Versão 1.6\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.application
+C:\Users\geison\Desktop\Versão 1.7\Versão 1.7\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.exe.config
+C:\Users\geison\Desktop\Versão 1.7\Versão 1.7\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.exe
+C:\Users\geison\Desktop\Versão 1.7\Versão 1.7\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.pdb
+C:\Users\geison\Desktop\Versão 1.7\Versão 1.7\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.exe.manifest
+C:\Users\geison\Desktop\Versão 1.7\Versão 1.7\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.application
+C:\Users\geison\Desktop\Versão 1.7\Versão 1.7\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.exe
+C:\Users\geison\Desktop\Versão 1.7\Versão 1.7\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.pdb
+C:\Users\geison\Desktop\Versão 1.7\Versão 1.7\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.csprojResolveAssemblyReference.cache
+C:\Users\geison\Desktop\Versão 1.7\Versão 1.7\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.MainWindow.resources
+C:\Users\geison\Desktop\Versão 1.7\Versão 1.7\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.Properties.Resources.resources
+C:\Users\geison\Desktop\Versão 1.7\Versão 1.7\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.View.WindConfig.resources
+C:\Users\geison\Desktop\Versão 1.7\Versão 1.7\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.csproj.GenerateResource.Cache
+C:\Users\geison\Desktop\Versão 1.7\Versão 1.7\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.exe.manifest
+C:\Users\geison\Desktop\Versão 1.7\Versão 1.7\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.application
+C:\Users\geison\Desktop\Versão 1.8\Versão 1.7\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.exe.config
+C:\Users\geison\Desktop\Versão 1.8\Versão 1.7\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.exe
+C:\Users\geison\Desktop\Versão 1.8\Versão 1.7\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.pdb
+C:\Users\geison\Desktop\Versão 1.8\Versão 1.7\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.exe.manifest
+C:\Users\geison\Desktop\Versão 1.8\Versão 1.7\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.application
+C:\Users\geison\Desktop\Versão 1.8\Versão 1.7\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.exe
+C:\Users\geison\Desktop\Versão 1.8\Versão 1.7\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.pdb
+C:\Users\geison\Desktop\Versão 1.8\Versão 1.7\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.csprojResolveAssemblyReference.cache
+C:\Users\geison\Desktop\Versão 1.8\Versão 1.7\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.MainWindow.resources
+C:\Users\geison\Desktop\Versão 1.8\Versão 1.7\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.Properties.Resources.resources
+C:\Users\geison\Desktop\Versão 1.8\Versão 1.7\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.View.WindConfig.resources
+C:\Users\geison\Desktop\Versão 1.8\Versão 1.7\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.csproj.GenerateResource.Cache
+C:\Users\geison\Desktop\Versão 1.8\Versão 1.7\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.exe.manifest
+C:\Users\geison\Desktop\Versão 1.8\Versão 1.7\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.application
+C:\Users\geison\Desktop\Versão 1.8\Versão 1.9(b)\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.exe.config
+C:\Users\geison\Desktop\Versão 1.8\Versão 1.9(b)\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.exe
+C:\Users\geison\Desktop\Versão 1.8\Versão 1.9(b)\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.pdb
+C:\Users\geison\Desktop\Versão 1.8\Versão 1.9(b)\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.exe.manifest
+C:\Users\geison\Desktop\Versão 1.8\Versão 1.9(b)\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.application
+C:\Users\geison\Desktop\Versão 1.8\Versão 1.9(b)\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.exe
+C:\Users\geison\Desktop\Versão 1.8\Versão 1.9(b)\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.pdb
+C:\Users\geison\Desktop\Versão 1.8\Versão 1.9(b)\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.csprojResolveAssemblyReference.cache
+C:\Users\geison\Desktop\Versão 1.8\Versão 1.9(b)\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.MainWindow.resources
+C:\Users\geison\Desktop\Versão 1.8\Versão 1.9(b)\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.Properties.Resources.resources
+C:\Users\geison\Desktop\Versão 1.8\Versão 1.9(b)\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.View.WindConfig.resources
+C:\Users\geison\Desktop\Versão 1.8\Versão 1.9(b)\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.csproj.GenerateResource.Cache
+C:\Users\geison\Desktop\Versão 1.8\Versão 1.9(b)\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.exe.manifest
+C:\Users\geison\Desktop\Versão 1.8\Versão 1.9(b)\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.application
+C:\Users\geison\Desktop\Versão 2.0 FINAL\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.exe.config
+C:\Users\geison\Desktop\Versão 2.0 FINAL\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.exe
+C:\Users\geison\Desktop\Versão 2.0 FINAL\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.pdb
+C:\Users\geison\Desktop\Versão 2.0 FINAL\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.exe.manifest
+C:\Users\geison\Desktop\Versão 2.0 FINAL\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.application
+C:\Users\geison\Desktop\Versão 2.0 FINAL\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.exe
+C:\Users\geison\Desktop\Versão 2.0 FINAL\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\bin\Debug\GerenciadorDeMemoria.pdb
+C:\Users\geison\Desktop\Versão 2.0 FINAL\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.csprojResolveAssemblyReference.cache
+C:\Users\geison\Desktop\Versão 2.0 FINAL\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.MainWindow.resources
+C:\Users\geison\Desktop\Versão 2.0 FINAL\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.Properties.Resources.resources
+C:\Users\geison\Desktop\Versão 2.0 FINAL\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.View.WindConfig.resources
+C:\Users\geison\Desktop\Versão 2.0 FINAL\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.csproj.GenerateResource.Cache
+C:\Users\geison\Desktop\Versão 2.0 FINAL\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.exe.manifest
+C:\Users\geison\Desktop\Versão 2.0 FINAL\GerenciadorDeMemoriaSOUnivali\GerenciadorDeMemoria\obj\Debug\GerenciadorDeMemoria.application
